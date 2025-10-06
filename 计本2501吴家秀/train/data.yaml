@@ -1,0 +1,4 @@
+train: D:/yolo1/images/train
+val: D:/yolo1/images/val
+nc: 4
+names: ["car1","car2","car3","car4"]
