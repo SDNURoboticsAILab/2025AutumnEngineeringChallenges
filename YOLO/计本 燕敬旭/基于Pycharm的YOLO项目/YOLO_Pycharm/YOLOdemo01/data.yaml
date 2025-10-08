@@ -1,0 +1,6 @@
+path: D:\YOLO_Pycharm\YOLOdemo01
+train: data\images\train
+val: data\images\val
+nc: 1
+names:
+  - licence plate

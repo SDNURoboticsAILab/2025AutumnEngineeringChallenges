@@ -1,0 +1,10 @@
+# data/license_plate.yaml
+path: C:/Users/chenshizhang/Desktop/yolo/dataset
+train: images/train
+val: images/val
+
+# 类别数量
+nc: 1
+
+# 类别名称
+names: ['license_plate']
