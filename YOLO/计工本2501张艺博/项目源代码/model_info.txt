@@ -1,0 +1,4 @@
+模型路径：C:/YOLO_plate_dataset/runs/detect/train/weights/best.pt
+训练参数：YOLOv8n，epochs=50，batch=8，imgsz=640
+模型性能：测试集mAP50=0.88
+适用场景：图片/视频/摄像头实时车牌检测+字符识别
